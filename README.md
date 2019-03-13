@@ -4,7 +4,7 @@ This project aimed to apply statistics method to investigate patterns of palindr
 
 ### Getting Started
 The project only needs jupyter notebook and R environment. 
-[CASE_3.pdf](CASE_3.pdf) is full report for this project.
+[CASE_3.pdf](CASE_3.pdf) is full report for this project.  
 [project 3merged.pdf](project 3merged.pdf) is full python and R code for this project.
 
 ### Prerequisites
