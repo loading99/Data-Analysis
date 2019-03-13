@@ -13,13 +13,13 @@ Jupyter Notebook
 R environment
 
 ### Installing
-Upload the project3.ipynb to Jupyter Notebook and open it
+Upload the [project3.ipynb](project3.ipynb) to Jupyter Notebook and open it
 
 ### Authors
-Luying Jiang
-Siyao Mi
-Nuo Chen 
-Jining Jin
+Luying Jiang  
+Siyao Mi  
+Nuo Chen   
+Jining Jin  
 Zhijian Hu
 
 ### License
