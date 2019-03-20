@@ -23,5 +23,5 @@ Jining Jin
 Zhijian Hu
 
 ### License
-The project is licensed under MIT License- see the [LICENSE](/..LICENSE) for details
+The project is licensed under MIT License- see the [LICENSE](../LICENSE) for details
 
