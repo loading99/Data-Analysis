@@ -18,7 +18,7 @@ R environment
 
 ## Installing
 Upload the [project1_1 edition.ipynb](project1_1edition.ipynb) to Jupyter Notebook and open it.  
-Download [babyweight.R](HW1.R) and open it in R.
+Download [babyweight.R](babyweight.R) and open it in R.
 
 ## Authors
 Luying Jiang  
