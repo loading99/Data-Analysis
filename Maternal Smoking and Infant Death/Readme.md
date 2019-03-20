@@ -17,7 +17,8 @@ Jupyter Notebook
 R environment
 
 ## Installing
-Upload the [project1_1edition.ipynb](project1_1edition.ipynb) to Jupyter Notebook and open it
+Upload the [project1_1 edition.ipynb](project1_1edition.ipynb) to Jupyter Notebook and open it.  
+Download [HW1.R](HW1.R) and open it in R.
 
 ## Authors
 Luying Jiang  
