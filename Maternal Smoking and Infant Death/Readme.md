@@ -4,9 +4,12 @@ babies maturity through investigations in the influence of maternal smoking on b
 gestational age separately, including the consideration of connection between these two factors.
 
 ## Getting Started
-The project only needs jupyter notebook and R environment. 
-[Math_189_Homework_1_.pdf](Math_189_Homework_1_.pdf) is full report for this project.  
-[project3merged.pdf](project3merged.pdf) is full python and R code for this project.
+The project only needs jupyter notebook and R environment.  
+Need to upload the following files:
+[Math_189_Homework_1_.pdf](Math_189_Homework_1_.pdf) is full report for this project.   
+[code.pdf](code.pdf) is full python and R code for this project.  
+[baby.txt](baby.txt) and [baby123.txt](baby123.txt) is data file.
+
 
 ## Prerequisites
 Python 3.7
@@ -14,7 +17,7 @@ Jupyter Notebook
 R environment
 
 ## Installing
-Upload the [project3.ipynb](project3.ipynb) to Jupyter Notebook and open it
+Upload the [project1_1edition.ipynb](project1_1edition.ipynb) to Jupyter Notebook and open it
 
 ## Authors
 Luying Jiang  
