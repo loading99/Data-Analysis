@@ -5,7 +5,7 @@ gestational age separately, including the consideration of connection between th
 
 ## Getting Started
 The project only needs jupyter notebook and R environment. 
-[CASE_3.pdf](CASE_3.pdf) is full report for this project.  
+[Math_189_Homework_1_.pdf](Math_189_Homework_1_.pdf) is full report for this project.  
 [project3merged.pdf](project3merged.pdf) is full python and R code for this project.
 
 ## Prerequisites
