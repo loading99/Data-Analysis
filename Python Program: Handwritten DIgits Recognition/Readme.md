@@ -10,13 +10,13 @@ Libraries, platform and framework include:
 6. HTML  
 
 Overall:  
-![picture](Screenshot.png)  
+![picture](main.png)  
 And the following is the result page:  
-![picture](Screenshot1.png)
+![picture](predict.png)
 
 ### Installation 
 1. You may first need to download Docker engine from docker website.  
 2. You need to pull the image from https://hub.docker.com/r/kyurem/handwritten_digit_recognition  
 3. Run the image in local host
 4. In any web browser (Note: one needs to disable all proxy before this step), enter 0.0.0.0:4000
-5. Select your image (Note: the image must be resized to 28x28) and press 'upload your image'
+5. Select your image (Note: the image must be resized to 28x28 and saved as .png) and press 'upload your image'
