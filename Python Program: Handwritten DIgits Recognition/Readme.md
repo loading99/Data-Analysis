@@ -18,5 +18,9 @@ And the following is the result page:
 1. You may first need to download Docker engine from docker website.  
 2. You need to pull the image from https://hub.docker.com/r/kyurem/handwritten_digit_recognition  
 3. Run the image in local host
+Enter command in terminal:
+```
+docker run -p 4000:80 imrecog
+```
 4. In any web browser (Note: one needs to disable all proxy before this step), enter 0.0.0.0:4000
 5. Select your image (Note: the image must be resized to 28x28 and saved as .png) and press 'upload your image'
