@@ -10,7 +10,7 @@ Libraries, platform and framework include:
 6. HTML  
 
 Overall:  
-![picture](main.png)  
+![picture](mainpage.png)  
 And the following is the result page:  
 ![picture](predict.png)
 
