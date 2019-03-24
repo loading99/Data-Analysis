@@ -31,6 +31,7 @@ Instructor: Fan Zhang
 ### Reference
 1. Flask restful service: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask  
 2. https://www.tutorialspoint.com/flask/flask_templates.htm
+3. Deep learning and mnist database instance: https://blog.csdn.net/huaweizte123/article/details/79672479
 ### License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)  
 Subject to [LICENSE](../LICENSE) 
