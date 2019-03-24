@@ -25,7 +25,9 @@ docker run -p 4000:80 imrecog
 ```
 4. In any web browser (Note: one needs to disable all proxy before this step), enter 0.0.0.0:4000
 5. Select your image (Note: the image must be resized to 28x28 and saved as .png) and press 'upload your image'
-
+### Contribution
+Zhijian Hu  
+Instructor: Fan Zhang
 ### Reference
 1. Flask restful service: https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask  
 2. https://www.tutorialspoint.com/flask/flask_templates.htm
