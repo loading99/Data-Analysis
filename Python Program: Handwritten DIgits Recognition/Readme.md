@@ -8,11 +8,11 @@ And the following is the result page:
 ![picture](predict.png)
 
 ### Libraries, platform and framework
-1.Flask: http://flask.pocoo.org/      
-2.Tensorflow: https://www.tensorflow.org/    
-3.keras database: https://keras.io/datasets/  
-4.Apache Cassandra: http://cassandra.apache.org/  
-5.Docker platform: https://www.docker.com/    
+1. Flask: http://flask.pocoo.org/      
+2. Tensorflow: https://www.tensorflow.org/    
+3. keras database: https://keras.io/datasets/  
+4. Apache Cassandra: http://cassandra.apache.org/  
+5. Docker platform: https://www.docker.com/    
 6. HTML  
 
 ### Installation 
