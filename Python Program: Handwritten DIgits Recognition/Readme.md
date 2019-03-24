@@ -26,5 +26,5 @@ docker run -p 4000:80 imrecog
 5. Select your image (Note: the image must be resized to 28x28 and saved as .png) and press 'upload your image'
 
 ### License
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)  
 Subject to [LICENSE](../LICENSE) 
