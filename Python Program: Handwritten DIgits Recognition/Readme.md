@@ -8,6 +8,8 @@ Libraries, platform and framework include:
 4.Apache Cassandra: http://cassandra.apache.org/  
 5.Docker platform: https://www.docker.com/    
 
-![picture](mainpage.png)
+Overall:  
+![picture](Screenshot.png)  
+And the following is the result page:  
 ![picture](Screenshot1.png)
 
