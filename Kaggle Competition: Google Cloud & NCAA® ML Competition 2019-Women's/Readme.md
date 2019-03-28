@@ -8,11 +8,11 @@ The project only needs jupyter notebook and R environment. [report.pdf](report) 
 Python 3.7 Jupyter Notebook R environment
 
 ## Authors
-Luying Jiang
-Siyao Mi
-Nuo Chen
-Jining Jin
+Luying Jiang  
+Siyao Mi  
+Nuo Chen  
+Jining Jin  
 Zhijian Hu
 
 ## License
-The project is licensed under MIT License- see the LICENSE for details
+The project is licensed under MIT License- see the [../LICENSE](LICENSE) for details
